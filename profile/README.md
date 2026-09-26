@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://github.com/andreasjhagen/Cynosure/releases"><strong>Download Cynosure</strong></a>
   ·
+  <a href="https://cynosure-ai.github.io"><strong>Website</strong></a>
+  ·
   <a href="https://github.com/Cynosure-AI/docs">Documentation</a>
 </p>
 
